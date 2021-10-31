@@ -1,0 +1,12 @@
+C:\Users\komputer\Desktop\c#\School_App\School_App\bin\Debug\School_App.exe.config
+C:\Users\komputer\Desktop\c#\School_App\School_App\bin\Debug\School_App.exe
+C:\Users\komputer\Desktop\c#\School_App\School_App\bin\Debug\School_App.pdb
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.csprojAssemblyReference.cache
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.Form1.resources
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.Properties.Resources.resources
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.csproj.GenerateResource.cache
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.csproj.CoreCompileInputs.cache
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.exe
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.pdb
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.Form2.resources
+C:\Users\komputer\Desktop\c#\School_App\School_App\obj\Debug\School_App.Form3Students.resources
