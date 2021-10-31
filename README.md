@@ -1,1 +1,1 @@
-schoo app
+school app
